@@ -1,0 +1,1 @@
+cp $env:APPDATA/SumatraPDF/SumatraPDF-settings-backup.txt $env:APPDATA/SumatraPDF/SumatraPDF-settings.txt

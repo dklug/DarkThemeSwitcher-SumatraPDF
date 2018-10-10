@@ -1,0 +1,3176 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings3.2.html
+
+MainWindowBackground = #000000
+EscToExit = false
+ReuseInstance = false
+UseSysColors = false
+RestoreSession = true
+
+FixedPageUI [
+	TextColor = #ffffff
+	BackgroundColor = #000000
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	GradientColors = #000000
+]
+EbookUI [
+	FontName = Georgia
+	FontSize = 12.5
+	TextColor = #5f4b32
+	BackgroundColor = #fbf0d9
+	UseFixedPageUI = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+ExternalViewers [
+]
+PrereleaseSettings [
+	TabWidth = 300
+]
+ShowMenubar = true
+ReloadModifiedDocuments = true
+FullPathInTitle = false
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+AnnotationDefaults [
+	HighlightColor = #ffff60
+	SaveIntoDocument = true
+]
+CustomScreenDPI = 0
+
+RememberStatePerDocument = true
+UiLanguage = en
+ShowToolbar = true
+ShowFavorites = false
+AssociateSilently = false
+CheckForUpdates = true
+RememberOpenedFiles = true
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+WindowState = 2
+WindowPos = 1835 0 1869 2160
+ShowToc = true
+SidebarDx = 464
+TocDy = 0
+ShowStartPage = true
+UseTabs = false
+
+FileStates [
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\Job\KLUG-D_External_IT Associate Applications Analyst.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 51
+		PageNo = 2
+		Zoom = 209.901
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1835 0 1869 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Labs\Lab-4\Lab-4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 27 47
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1835 0 1869 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\3rd ed Rafael C. Gonzalez, Richard E. Woods-Digital Image Processing-Pearson (2007).pdf
+		Favorites [
+			[
+				PageNo = 95
+			]
+			[
+				PageNo = 124
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 113
+		PageNo = 95
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1868 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Homeworks\HW_03.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 83 71
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1868 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Quiz\Quiz-1\Quiz-1-2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1982 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Quiz\Quiz-1\Quiz-1-1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1982 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Homeworks\DuncanKlug_HW_02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 12
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1982 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture10.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 609
+		PageNo = 11
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1836 0 1868 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Labs\Lab_02\Lab_02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 94 70
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1836 0 1868 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Digital Image Processing 4th Edition by Rafael C. Gonzalez.pdf
+		Favorites [
+			[
+				Name = Summary, References, and Further Reading
+				PageNo = 278
+			]
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 278
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1875 2160
+		ShowToc = true
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Notes\Notes_ProvingLinearity.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 49 -1
+		PageNo = 1
+		Zoom = 129.926
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1982 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture08.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 48
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture07.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 426
+		PageNo = 6
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1721 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Notes\Notes_Interpolation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 71 22
+		PageNo = 2
+		Zoom = 146.688
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1882 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture06.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture09.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 5
+		PageNo = 5
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Homeworks\HW_02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 261 892 1877 1279
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Labs\Lab-2\Lab-2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 53 57
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1868 1435
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Ross\SUMMER DD 2018-6-20-18.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\DuncanDL\CSE107\Assignments\Homeworks\HW_02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\DatabaseSystems.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 767
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Labs\Lab-3\Lab-3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = single page
+		ScrollPos = 35 393
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 261 892 1877 1279
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 41 75
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1877 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Homeworks\DuncanKlug_HW_01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 96
+		PageNo = 5
+		Zoom = 108.081
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1839 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Homeworks\HW_01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 67 62
+		PageNo = 2
+		Zoom = 111.724
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1529 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Notes\Notes_LensModels.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 219
+		PageNo = 2
+		Zoom = 129.186
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -19 0 1529 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1708 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture03.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture04.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Lectures\Lecture05.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\(2nd Edition) Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom-Database Systems_ The Complete Book-Prentice Hall (2008).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 466
+		PageNo = 302
+		Zoom = 156.761
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1836 0 1868 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Labs\Lab_01\DuncanKlug_ReportLab01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 761
+		PageNo = 1
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 464
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Labs\Lab_01\LabGradingRubric_Lab01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 53
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Docs\CSE107_Lab_Report_Format.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 51 143
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Rafael C. Gonzalez, Richard E. Woods-Digital Image Processing-Pearson (2007).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 387
+		PageNo = 261
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Rafael C. Gonzalez, Richard Richard Eugene Woods, Steven L. Eddins-Digital Image Processing Using MATLAB-Gatesmark Publishing@ (2009).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 527
+		PageNo = 34
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1839 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 23
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\2018_Fall_CSE107_syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 126
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1719 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Digital Image Processing\Assignments\Labs\Lab_01\Lab_01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 113 298
+		PageNo = 2
+		Zoom = 150.488
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1841 0 1875 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\Databases\2.17.3\tpc-ds_v2.17.3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -12 0 1721 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Labs\Lab-1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 53 47
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -12 0 1721 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Labs\Lab-2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 60 52
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -12 0 1721 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Databases\Project\Projects.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 290
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -12 0 2095 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\Ethics Related Files\Engineering Ethics Case Studies.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 128
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2094 1167
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\Ethics Related Files\acm-code-of-ethics-and-professional-conduct.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 532
+		PageNo = 9
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -12 0 2095 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\tutorial\CSE107_Lab_Report_Format.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1844 0 1877 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\tutorial\Lecture01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 484
+		PageNo = 12
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1844 0 1877 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\ENGR191-F18 Assignment 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 86
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2094 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Ross\Duncan Klug Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1844 0 1877 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume 8-30-18.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume 10-30-17 (2).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume PETCO.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\Session Slides\ENGR191-F18 Session 2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 23
+		PageNo = 9
+		Zoom = 70.5957
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2171
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\ENGR191 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\OneDrive\Documents\UCMerced\Classes 2018 s2\Professional Seminar\Session Slides\ENGR191-F18 Session 1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 2
+		PageNo = 12
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Ross\Duncan Klug Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 43
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2017 s1\CSE100Algorithms\Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein-Introduction to Algorithms-MIT (2009).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 323
+		PageNo = 585
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1385 0 2322 2171
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 24
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2017 s1\CSE100Algorithms\Lectures\ch22.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 966 0 2741 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\Mondo IT\Student HelpDesk Technician Manual (2nd draft).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 53
+		PageNo = 183
+		Zoom = 100
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 966 0 2741 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Final prep\fa07mt2-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 287
+		PageNo = 17
+		Zoom = 189.658
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1866 -30 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture26 - Review.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 218
+		PageNo = 99
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 966 0 2741 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\18S CSE150 Midterm Solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 744
+		PageNo = 4
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1866 -30 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 79 299
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1836 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L17-bezier.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 10 20
+		PageNo = 12
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 0 2016 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug Resume PETCO.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 34 -1
+		PageNo = 1
+		Zoom = 124.99
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1835 0 1872 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Duncan Klug References.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\MichaelYee_Resume.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 32 1870 2139
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L21-implicit.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 285
+		PageNo = 3
+		Zoom = 166.069
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1074 0 2633 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L24-repmanifolds.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 390
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 0 2633 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L23-decomposition.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 31
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 0 2633 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L23-csg.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 315
+		PageNo = 1
+		Zoom = 162.096
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1192 -47 2494 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L22-raytracing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 41
+		PageNo = 2
+		Zoom = 148.181
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1192 -47 2494 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L19-intsplines.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 389 329
+		PageNo = 2
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1492 0 2215 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA08-Splines.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 27 287
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1849 67 1870 1737
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\EA1V43I6\TeamCare - Software Implementation Specialist.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 290
+		PageNo = 2
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 0 2633 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L18-bsplines.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 607
+		PageNo = 3
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1074 0 2633 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 1\Eclipse Guide for Nachos.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 65
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1067 1 1870 1737
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 3\Nachos Transport Protocol Specs.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 42 55
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 3\Project 3 Test Cases.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 3\Project3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 41 416
+		PageNo = 4
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA07-LagrangeBezier.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 29 39
+		PageNo = 1
+		Zoom = 120.234
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L16-hermite.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 329
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\list3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 282
+		PageNo = 3
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1074 0 2633 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L16-lagrange.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1037 0 2670 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\Downloads\Parallels Desktop User's Guide.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 245
+		PageNo = 10
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2105 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\Downloads\Getting Started With Parallels Desktop.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 24
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 2105 2171
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\Project 3\Nachos Transport Protocol Specs.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 22 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\Project 3\Project 3 Test Cases.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 27 63
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\Project 3\Project3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 17 408
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1836 0 1871 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\Proj1-HierarchicalObject.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 47 581
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture14.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 15
+		PageNo = 2
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 964 0 2743 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture12.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 22
+		PageNo = 2
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 966 0 2743 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture11.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 319
+		PageNo = 14
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture10.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture09.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 85
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture08.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 27
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture07.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture13.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 288
+		PageNo = 7
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 855 0 2844 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture03.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 25
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 964 0 2743 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture02.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 538
+		PageNo = 38
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 964 0 2743 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\Midterm.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 26 61
+		PageNo = 8
+		Zoom = 124.075
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp10-mt1-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\fa10-mt1-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 64 204
+		PageNo = 6
+		Zoom = 131.964
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp11-mt1-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 82 504
+		PageNo = 7
+		Zoom = 157.024
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp12-mt1-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp12mt-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 82 601
+		PageNo = 3
+		Zoom = 160.5
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\FinalExamCheatSheet_PDFVersion.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 181 511
+		PageNo = 1
+		Zoom = 287.609
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -1 0 1860 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\fa13mt1-sol.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 11
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\fa10-mt1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 102
+		PageNo = 7
+		Zoom = 125
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\fa13mt1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 24
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp14mt1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 83 -1
+		PageNo = 1
+		Zoom = 145.362
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp18-mt1-solutions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 404
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp14mt2-sol.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 45 711
+		PageNo = 5
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2171
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp14mt1-sol.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 18 -1
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture04.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 964 0 2743 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture01.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 13
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 964 0 2743 2160
+		ShowToc = false
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Textbooks\Operating-System-Concepts.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\18S CSE150 Syllabus.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 220
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Supplementary Reading\Levy and Lipman 82 - Virtual Memory Management in VAX_VMS.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 55 500
+		PageNo = 3
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1215 0 2493 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Dijkstra 68 - THE Multiprogramming System.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Lecture Slides\Lecture05.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 969 0 2738 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Midterm prep\sp14mt2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 41 172
+		PageNo = 3
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 2\Project2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = C:\Users\dunca\devenv\sig\doc\sigdoc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L14-review.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 23 211
+		PageNo = 1
+		Zoom = 186.838
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L12-visdet.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 174
+		PageNo = 4
+		Zoom = 170.146
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L10-shading.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 4
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1720 -24 1870 1091
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L09-illumination.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 394
+		PageNo = 3
+		Zoom = 147.193
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1720 -24 1870 1091
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L07-barycentric.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 20
+		PageNo = 4
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1829 -34 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L11-mappings.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 1829 -34 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L13-rasterization.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 330
+		PageNo = 5
+		Zoom = 171.057
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\list2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 81 461
+		PageNo = 4
+		Zoom = 302.21
+		Rotation = 0
+		WindowState = 2
+		WindowPos = -11 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L01-courseinfo.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 47
+		PageNo = 2
+		Zoom = 152.239
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 57 -41 3725 1339
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L06-projections.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 0 549
+		PageNo = 2
+		Zoom = 191.952
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1136 0 1872 1460
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\list1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 54 594
+		PageNo = 2
+		Zoom = 268.567
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 3707 1601
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA06-Textures.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 47 786
+		PageNo = 1
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA05-SmoothObject.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 37 48
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L08-color.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 196 568
+		PageNo = 5
+		Zoom = 141.222
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 1080 1870 1091
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\Quizzes1-3 (1).pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 440 610
+		PageNo = 1
+		Zoom = 200
+		Rotation = 0
+		WindowState = 1
+		WindowPos = -11 0 1870 2171
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L10-transfnormals.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 111
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\schedule.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA04-Articulation.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 26 56
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1870 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L04-scenegraphs.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 916 0 940 1088
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\Fundamentals-of-Computer-Graphics.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 137
+		PageNo = 83
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 12 12 2412 1436
+		ShowToc = true
+		SidebarDx = 461
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 33
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA03-Stopwatch.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 45 216
+		PageNo = 2
+		Zoom = 125
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1208 0 1838 1462
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L05-transformations-II.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 455 34
+		PageNo = 2
+		Zoom = 223.876
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\= Lectures =\L03-transformations-I.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 344
+		PageNo = 9
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\Financial\Bills\0021custbill02062018.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA02-3DObject.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 30 222
+		PageNo = 1
+		Zoom = 121.963
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1837 0 1871 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 1\Design Document Instructions.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 2102 0 1606 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Operating Systems 150\Project 1\Project1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 72 578
+		PageNo = 3
+		Zoom = 132.881
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 2102 0 1606 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\sigdoc.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 63 175
+		PageNo = 1
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1713 0 1995 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Classes 2018 s1\Graphics 170\PA01-BasicDrawing.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = 55 299
+		PageNo = 2
+		Zoom = 150
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1713 0 1995 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = E:\OneDrive\Documents\UCMerced\Advising\Resume and Cover Letter\Resume_Kyle_Douglas_1.11.17.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 1713 0 1995 2160
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 405
+
+# Settings after this line have not been recognized by the current version
